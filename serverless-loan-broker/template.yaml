@@ -6,8 +6,8 @@ metadata:
   title: Serverless Loan Broker Template
   description: Template for integration patterns that deploys serverless loan broker
   tags:
-    - integration patterns
-    - aws stepfunctions
+    - integrationpatterns
+    - awsstepfunctions
 spec:
   owner: user:guest
   type: service
